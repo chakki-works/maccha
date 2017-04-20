@@ -10,6 +10,8 @@ To install required modules, simply:
 $ pip install -r requirements.txt
 ```
 
+maccha needs to install [NEologd](https://github.com/neologd/mecab-ipadic-neologd). Please install it.
+
 # Setup
 First, you should download word vector and vocabulary's dictionary and store them into data directory.
 
